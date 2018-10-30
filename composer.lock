@@ -15,7 +15,8 @@
     "platform": {
         "ext-gd": "*",
         "ext-mbstring": "*",
-        "ext-soap": "*"
+        "ext-soap": "*",
+        "php": "7.1.18"
     },
     "platform-dev": []
 }
